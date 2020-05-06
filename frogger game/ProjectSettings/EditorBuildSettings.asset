@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Menu.unity
+    guid: adce75e0a074293459a91c125880491e
+  - enabled: 0
+    path: Assets/Scenes/FroggerGame.unity
+    guid: 43205b033a6de634b8c85819c4508401
+  - enabled: 0
+    path: Assets/Scenes/UfoGame.unity
+    guid: 330f0e413be17b04f8a21b570f6687c2
+  - enabled: 1
+    path: Assets/Scenes/StartMennu.unity
+    guid: 116a732ecb7426e4c9003d6e3ede7bdb
+  - enabled: 1
+    path: Assets/Scenes/FroggerLevel1.unity
+    guid: 167c5037619d527478a2f41039954b9a
+  - enabled: 1
+    path: Assets/Scenes/FroggerLevel2.unity
+    guid: 89b587441b7eb9247a93292ff04dcf5e
+  - enabled: 1
+    path: Assets/Scenes/FroggerLevel3.unity
+    guid: b00a4048fdad6f448aadf73605c4b7da
+  m_configObjects: {}
